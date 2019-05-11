@@ -42,7 +42,7 @@
                          <div id="login-row" class="row justify-content-center align-items-center">
                             <div id="login-column" class="col-md-6">
                                  <div id="login-box" class="col-md-12">
-                                     <form id="login-form" class="form" action="" method="post">
+                                     <form id="login-form" class="form" action="login.php" method="post">
                                         <h3 class="text-center text-info">Login</h3>
                                         <div class="form-group">
                                              <label for="username" class="text-info">Email:</label><br>
@@ -85,7 +85,7 @@
      <!-- The Modal -->
     <div class="modal fade" id="myModal">
          <div class="modal-dialog">
-             <form name="form" action="login.php" method="post">
+             <form name="form" action="" method="post">
                  <div class="modal-content">
                  
                     <!-- Modal Header -->

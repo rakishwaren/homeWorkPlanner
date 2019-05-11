@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 
 require('Config.php');
     
@@ -43,10 +43,10 @@ require('Config.php');
        }
 
     
-       
+       ?>
            
-       
-       
+     <?php  
+       session_start();
      if(isset($_POST['login']))
     {
          $email=$_POST['l_email'];
@@ -67,3 +67,4 @@ require('Config.php');
 
          }
     }
+    ?>
