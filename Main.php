@@ -23,10 +23,10 @@ else
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
          <link rel="stylesheet" href="../HomePlanner/style.css">
     
-         <script src="jquery.min.js"></script>
+         <script src="../HomePlanner/js/jquery.min.js"></script>
          <script src="Boostrap/bootstrap-4.3.1-dist/js/bootstrap.js"></script>
          <script src="Boostrap/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
-         <script src="sidebar.js">
+         <script src="../HomePlanner/js/sidebar.js">
 
 </script>
          

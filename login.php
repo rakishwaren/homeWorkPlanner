@@ -14,10 +14,10 @@
          <link rel="stylesheet" href="../HomePlanner/style.css">
          <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
     
-         <script src="jquery.min.js"></script>
+         <script src="../HomePlanner/js/jquery.min.js"></script>
          <script src="Boostrap/bootstrap-4.3.1-dist/js/bootstrap.js"></script>
          <script src="Boostrap/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
-         <script src="loginPage.js"></script>
+         <script src="../HomePlanner/js/loginPage.js"></script>
          
    
              
